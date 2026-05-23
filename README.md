@@ -51,7 +51,7 @@ Indian exporters — particularly MSMEs — face a persistent **working capital 
 
 ### Dashboard 1 — Factoring Volume & Growth Analytics
 
-![Factoring Volume Dashboard](dashboards/screenshots/01_factoring_volume_growth_overview.png)
+![Factoring Volume Dashboard](trade-finance-analytics-india/dashboards/screenshots/01_factoring_volume_growth_overview.png)
 
 **What this shows:**
 This dashboard tracks India's factoring market from 2018–2024 across five coordinated visualisations. The bar chart reveals a dramatic surge in 2024 (38.20K M EUR), representing 41% of total 7-year cumulative volume. The growth rate line chart exposes two critical events: a sharp decline in 2019–2020 (COVID-19 disruption) followed by a 130%+ YoY recovery in 2021. The donut chart confirms 2024's dominance at 41.02% of cumulative turnover, signalling accelerating market maturity. KPI cards display a 9.72% total growth rate and 4.36 growth rate multiplier across the period.
@@ -60,7 +60,7 @@ This dashboard tracks India's factoring market from 2018–2024 across five coor
 
 ### Dashboard 2 — Forfaiting–Export Correlation Analysis
 
-![Forfaiting Export Dashboard](dashboards/screenshots/02_forfaiting_export_correlation.png)
+![Forfaiting Export Dashboard](trade-finance-analytics-india/dashboards/screenshots/02_forfaiting_export_correlation.png)
 
 **What this shows:**
 The scatter plot confirms a strong positive monotonic relationship between forfaiting volume and export value — as forfaiting uptake grew from ~$5B to ~$15B USD, India's exports climbed from $265B to $480B. The dual-axis bar chart highlights the 2020–2021 anomaly: export growth spiked post-COVID while forfaiting growth lagged, suggesting an ~18-month structural delay in financial instrument adoption. Interactive year slicers and range filters allow drill-down into any specific sub-period.
