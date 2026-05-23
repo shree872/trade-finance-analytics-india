@@ -282,7 +282,7 @@ trade-finance-analytics-india/
 ## 🤝 Connect
 
 **Built by:** Sreeparna Bal
-**LinkedIn:** [[your-linkedin-url](https://www.linkedin.com/in/sreeparna-bal-07348432b)]
+**LinkedIn:** [(https://www.linkedin.com/in/sreeparna-bal-07348432b)]
 
 *If you found this project useful or insightful, consider giving it a ⭐ — it helps with visibility!*
 
