@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Power BI temp files
+*.pbix.lock
+~*.pbix
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# Windows thumbnail cache
+ehthumbs.db
+
+# Python (if added later)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter
+.jupyter/
